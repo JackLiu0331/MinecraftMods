@@ -4,12 +4,15 @@
 
 下载教程：
 
-找到Clone，然后download zip就可以下载文件
+1.点击进入自己需要下载的mod文件夹
+![image](https://user-images.githubusercontent.com/59854478/86616018-3c35c800-bf83-11ea-9c12-f9b8c53566d7.png)
+
+2.找到Clone，然后download zip就可以下载文件
 
 ![image](https://user-images.githubusercontent.com/59854478/86614184-9da86780-bf80-11ea-9863-f49c829e2101.png)
 
 
-找到自己下载的zip文件，将里面的文件放入minecraft的mods文件里面，系统若显示替换提示，则选择替换即可。 （如果有特殊文件会另外说明）
+3.找到自己下载的zip文件，将里面的文件放入minecraft的mods文件里面，系统若显示替换提示，则选择替换即可。 （如果有特殊文件会另外说明）
 
 
 
