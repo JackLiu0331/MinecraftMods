@@ -7,6 +7,9 @@
 1.点击进入自己需要下载的mod文件夹
 ![image](https://user-images.githubusercontent.com/59854478/86616018-3c35c800-bf83-11ea-9c12-f9b8c53566d7.png)
 
+2.检查是否是自己需要的mods，如果是就点击后缀为zip的文件然后下载
+![image](https://user-images.githubusercontent.com/59854478/86616378-bebe8780-bf83-11ea-8e50-2aab44a4c556.png)
+
 2.找到Clone，然后download zip就可以下载文件
 
 ![image](https://user-images.githubusercontent.com/59854478/86614184-9da86780-bf80-11ea-9863-f49c829e2101.png)
