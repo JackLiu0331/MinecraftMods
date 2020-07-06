@@ -9,6 +9,9 @@
 ![image](https://user-images.githubusercontent.com/59854478/86614184-9da86780-bf80-11ea-9863-f49c829e2101.png)
 
 
-找到自己下载的zip文件，将里面的文件放入minecraft的mods文件里面。 （如果有特殊文件会另外说明）
+找到自己下载的zip文件，将里面的文件放入minecraft的mods文件里面，系统若显示替换提示，则选择替换即可。 （如果有特殊文件会另外说明）
+
+
+
 ![image](https://user-images.githubusercontent.com/59854478/86614275-bdd82680-bf80-11ea-84b9-6af851ab1564.png)
 
