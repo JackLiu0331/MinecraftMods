@@ -14,10 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/59854478/86616555-00e7c900-bf84-11ea-928a-a4e92c3600e3.png)
 
-2.找到Clone，然后download zip就可以下载文件
-
-![image](https://user-images.githubusercontent.com/59854478/86614184-9da86780-bf80-11ea-9863-f49c829e2101.png)
-
 
 3.找到自己下载的zip文件，将里面的文件放入minecraft的mods文件里面，系统若显示替换提示，则选择替换即可。 （如果有特殊文件会另外说明）
 
